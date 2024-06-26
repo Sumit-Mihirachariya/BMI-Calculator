@@ -1,5 +1,5 @@
 # BMI-Calculator
-Simple Calculator using HTML,CSS and JAVASCRIPT 
+
 A BMI (Body Mass Index) calculator is a tool used to measure body fat based on an individual's weight and height. It's a simple way to assess whether a person is underweight, normal weight, overweight, or obese. The BMI is calculated using the following formula:
 
 BMI = weight (kg)/height (m^2)
